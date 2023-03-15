@@ -11,6 +11,7 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             Console.WriteLine("Novo"); //super
+            //vana
         }
     }
 }
